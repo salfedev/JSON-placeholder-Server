@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "myPlugins": {
+    "rmg-theme": {
+      "version": "Alpha-0.0.1",
+      "lifecycle": "Development Alpha",
+      "owner": "@salfedev"
+    }
   }
 }
